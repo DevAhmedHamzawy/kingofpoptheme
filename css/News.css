@@ -1,0 +1,7 @@
+#wrapper
+{
+	margin: 0 0 0 10px;
+}
+.single_news_container , .single_news_container_one {
+        display:none; /* IMPORTANT: hide all the news containers */
+    }
